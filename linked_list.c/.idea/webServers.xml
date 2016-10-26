@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52b3d161-0f25-4a9d-ace8-a129f3e5443e" name="avs323@nice.harvard.edu" url="http://avs323@.nice.harvard.edu">
+        <fileTransfer host="avs323@.nice.harvard.edu" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
